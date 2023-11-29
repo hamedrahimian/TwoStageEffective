@@ -1,0 +1,1 @@
+1. "config.txt" contains 21 gamma parameters.
